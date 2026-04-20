@@ -1,9 +1,8 @@
 # Spring Boot E-Commerce Project
 
-This is a Spring Boot based E-commerce web application built using MVC architecture.  
-The project is created mainly for learning and practice purposes, focusing on how a real-world Java backend application is structured.
+I created this Spring Boot based E-commerce web application using MVC architecture.  
 
-The application supports Admin and Customer roles, product and category management, user authentication, and basic e-commerce workflows.
+In this project, I implemented features for Admin and Customer roles, product and category management, user authentication, and basic e-commerce workflows.
 
 ---
 
@@ -23,22 +22,20 @@ The application supports Admin and Customer roles, product and category manageme
 
 ## Tech Stack
 
-- Java  
-- Spring Boot  
-- Spring MVC  
-- Spring Data JPA (Hibernate)  
-- MySQL / MariaDB  
-- JSP  
-- Maven  
+- Java
+- Spring Boot
+- Spring MVC
+- Spring Data JPA (Hibernate)
+- MySQL / MariaDB
+- JSP
+- Maven
 
 ---
 
 ## Project Structure
 
-- **Controller** – Handles HTTP requests and sends data to views  
-- **Service** – Contains business logic and reusable services  
-- **DAO / Repository** – Interacts with the database  
-- **Model / Entity** – Represents database tables and relationships  
-- **View (JSP)** – Displays data on the frontend  
-
----
+- **Controller** – Handles HTTP requests and sends data to views
+- **Service** – Contains business logic and reusable services
+- **DAO / Repository** – Interacts with the database
+- **Model / Entity** – Represents database tables and relationships
+- **View (JSP)** – Displays data on the frontend
